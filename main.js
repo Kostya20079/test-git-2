@@ -1,4 +1,5 @@
 console.log(1);
 
-console.log(-1-21);
+console.log('Hi');
 
+console.log('hello world!');
