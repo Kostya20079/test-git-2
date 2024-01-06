@@ -8,3 +8,5 @@
 8. git pull [rep__link] [branch__name]
 9. git branch -d [name_of_branch]
 8. git checkout [name_of_branch] - changes a branch
+9. git pull [rep__link] [branch__name]
+10. git merge [branch__name]
