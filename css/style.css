@@ -1,6 +1,18 @@
-body {
-    text-align: center;
-}
 .header {
+    text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 350px;
+    border: 2px black solid;
+}
+
+.card:not(.card:last-child) {
+    margin-right: 10px;
 }
