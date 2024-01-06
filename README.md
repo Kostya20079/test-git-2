@@ -5,3 +5,4 @@
 5. git push [rep__link] [branch__name]
 6. git reset, but if add [--hard] - it reset all changes we made in files
 7. git diff [file_name] - it shows lines that were changed
+8. git checkout [name_of_branch] - changes a branch
