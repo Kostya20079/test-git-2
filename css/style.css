@@ -19,3 +19,8 @@ body {
 .card:not(.card:last-child) {
     margin-right: 10px;
 }
+
+.error-message {
+    font-size: 15px;
+    color: red;
+}
